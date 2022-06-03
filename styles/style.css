@@ -1,0 +1,20 @@
+* {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  max-width: 800px;
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  padding: 0;
+}
+
+ul li {
+  list-style: none;
+}
